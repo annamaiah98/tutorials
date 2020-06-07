@@ -24,7 +24,5 @@ License
 ----
 No licence, Free to use, modify and distribute
 
-Project modifiled by Annamaiah
-
 **Free Software, Hell Yeah!**
 
